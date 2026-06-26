@@ -63,11 +63,12 @@ The dashboard enables users to monitor campaign performance, audience engagement
 # 📂 GHR4_DAT2_S1_PROJECT1
 
 
-📁 screenshots/
+📁 screenshots
 📄 Documentation.pdf
 📄 README.md
 📄 (Soacial media Performance)Presentation.pptx
 📄 Social Media.pbix
+
 
 ```
 
