@@ -144,7 +144,7 @@ A complete project documentation is included in this repository, covering:
 
 # ❤️ Acknowledgment
 
-We would like to express our sincere appreciation to **ITC** and the **Digital Egypt Pioneers Initiative (DEPI) for their continuous guidance and support throughout this project.
+We would like to express our sincere appreciation to ITC and the Digital Egypt Pioneers Initiative (DEPI) for their continuous guidance and support throughout this project.
 
 ---
 
